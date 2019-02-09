@@ -1,10 +1,10 @@
 body {
   background-color: black;
   text-align: center;
-  
+  font-family: verdana;
 }
 
-.header {
+.header--main {
   text-align: center;
   font family: verdana;
   font-size: 50px;
@@ -12,9 +12,8 @@ body {
 
 }
 
-h1 {
+.link--cta {
   color: aquamarine;
-  font-size: 16px
-  text-align: center;
+  font-size: 50px;
 
 }
