@@ -2,7 +2,10 @@ body {
   background-color: black;
   text-align: center;
   font-family: verdana;
+  color: white;
 }
+
+/* HEADINGS */
 
 .header--main {
   text-align: center;
@@ -11,6 +14,21 @@ body {
   color: white;
 
 }
+
+.header--secondary {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+
+}
+
+.header--subheader {
+  font-size: 21px;
+  color: gray;
+}
+
+
+/* LINKS */
 
 .link--cta {
   color: aquamarine;
